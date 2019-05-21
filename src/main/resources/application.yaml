@@ -1,0 +1,7 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    port: 25
+    username: 987320671@qq.com
+    password: uxstvvmymaxfbdhb
+    receivers: chenzhangchao@originaltek.com;George_SDK@163.com
